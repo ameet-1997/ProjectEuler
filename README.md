@@ -1,3 +1,5 @@
 # ProjectEuler
 
-Will contain the codes of project euler open source question I have solved
+Codes of project euler questions
+8 problems solved
+Python and C++
